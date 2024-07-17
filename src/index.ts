@@ -1,2 +1,2 @@
 const version: string = "test"
-console.log(version)
+console.log(version, "amazing")

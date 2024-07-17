@@ -2,10 +2,12 @@
   "name": "vercel-test-simple",
   "private": true,
   "scripts": {
+    "dev": "vercel dev --listen 3009 --yes",
     "build": "tsc --build"
   },
   "devDependencies": {
     "@types/node": "^20.14.11",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "vercel": "^35.0.2"
   }
 }

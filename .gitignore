@@ -2,3 +2,4 @@ node_modules/
 build/
 public/index.js
 public/index.js.map
+.vercel
