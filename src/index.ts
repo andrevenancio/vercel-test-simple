@@ -1,2 +1,2 @@
-const version: string = "test"
-console.log(version, "amazing")
+const version: string = "client code"
+console.log(version)
