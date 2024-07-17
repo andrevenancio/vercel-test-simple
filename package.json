@@ -1,7 +1,11 @@
 {
   "name": "vercel-test-simple",
   "private": true,
+  "scripts": {
+    "build": "tsc --build"
+  },
   "devDependencies": {
-    "@types/node": "^20.14.11"
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
   }
 }
