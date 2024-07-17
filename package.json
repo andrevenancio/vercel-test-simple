@@ -1,0 +1,7 @@
+{
+  "name": "vercel-test-simple",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  }
+}

@@ -1,3 +1,3 @@
 export function GET() {
-  return new Response(`Hello`)
+  return new Response(`Hello ${process.env.TEST}`)
 }
